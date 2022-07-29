@@ -1,0 +1,188 @@
+﻿dnes | сегодня
+jméno | имя
+kamarád | друг
+cizinec | иностранец
+doktor | врач
+slečna | девушка
+manžel | супруг
+manželka | супруга
+práce | работа
+město | город
+dům | дом
+byt | квартира
+univerzita | университет
+knihovna | библиотека
+nemocnice | больница
+káva | кофе
+kavárna | кофейня
+restaurace | ресторан
+banka | банк
+počítač | компьютер
+návštěva | гости
+dobrý | хороший
+hezký | красивый
+mladý | молодой
+starý | старый
+pondělí | понедельник
+úterý | вторник
+středa | среда
+čtvrtek | четверг
+pátek | пятница
+sobota | суббота
+neděle | воскресенье
+týden | неделя
+slovník | словарь
+televize | телевизор
+bratr | брат
+sestra | сестра
+maminka | мама
+tatínek | папа
+režisér | режиссер
+programátor | программист
+stážista | стажер
+ředitel | директор
+peníze | деньги
+schůzka | встреча
+životopis | резюме
+talentovaný | талантливый
+výborný | отличный
+moderní | современный
+úžasný | восхитительный
+prodavač | продавец
+ulice | улица
+číst | читать
+trh | рынок
+loď | корабль
+obraz | картина
+shora | сверху
+procházka | прогулка
+tužka | карандаш
+hodina | час | урок
+čas | время
+hodinky | часы
+cesta | дорога
+centrum | центр
+nádraží | вокзал
+adresa | адрес
+číslo | номер
+pokoj | комната
+vyučování | уроки
+přestávka | перерыв
+kino | кинотеатр
+tělocvična | спортзал
+holka | девочка
+kluk | парень
+pes | собака
+nový | новый
+štíhlý | стройный
+vysoký | высокий
+vlasy | волосы
+oči | глаза
+oblíbený | любимый
+narozeniny | день рождения
+hlad | голод
+nula | 0
+jeden jedna jedno | 1
+dva dvě dvě | 2
+tři | 3
+čtyři | 4
+pět | 5
+šest | 6
+sedm | 7
+osm | 8
+devět | 9
+deset | 10
+jedenáct | 11
+dvanáct | 12
+třináct | 13
+čtrnáct | 14
+patnáct | 15
+šestnáct | 16
+sedmnáct | 17
+osmnáct | 18
+devatenáct | 19
+dvacet | 20
+třicet | 30
+čtyřicet | 40
+padesát | 50
+šedesát | 60
+sedmdesát | 70
+osmdesát | 80
+devadesát | 90
+sto | 100
+dvě stě | 200
+tři stě | 300
+ctyři stě | 400
+pět stě | 500
+šest stě | 600
+sedm stě | 700
+osm stě | 800
+devět stě | 900
+tísic | 1000
+dva tísice | 2000
+tři tísice | 3000
+ctyři tísice | 4000
+pět tísic | 5000
+šest tísic | 6000
+sedm tísic | 7000
+osm tísic | 8000
+barva | цвет
+černý | черный
+bílý | белый
+červený | красный
+šedý | серый
+modrý | синий
+hnědý | коричневый
+žlutý | желтый
+zelený | зеленый
+oblečení | одежда
+boty | обувь
+kabát | пальто
+bunda | куртка
+šaty | платье
+kalhoty | брюки
+oblek | костюм
+tričko | футболка
+svetr | свитер
+kabelka | сумка
+džíny | джинсы
+nakupování | покупки
+drahý | дорогой
+levný | дешевый
+nákupní centrum | торговый центр
+obchod | магазин
+sleva | скидка
+nakupovat | делать покупки
+ráno | утро
+dopoledne | первая половина дня
+poledne | полдень
+v poledne | в полдень
+odpoledne | вторая половина дня
+večer | вечер
+noc | ночь
+v noci | ночью
+půlnoc | полночь
+o půlnoci | в полночь
+části dne | части дня
+kdy? | когда?
+přednáška | лекция
+učebnice | учебник
+úkol | задание
+menza | студенческая столовая
+židle | стул
+časopis | журнал
+noviny | газета
+zprávy | новости
+divadlo | театр
+láska | любовь
+román | роман
+známý | известный
+natočit | снять фильм
+krátký | короткий
+prohlídka | осмотр, тур
+zajímavý | интересный
+spisovatel | писатель
+zima | зима
+léto | лето
+jarno | весна
+podzim | осень

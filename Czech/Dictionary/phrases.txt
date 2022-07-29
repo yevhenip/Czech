@@ -1,0 +1,67 @@
+﻿Dobrý den. | Добрый день.
+Ahoj! | Привет!
+Čau! | Привет!
+Nazdar! | Привет!
+Ráda tě vidím. | Рада тебя видеть.
+Jak se máš? | Как дела?
+Děkuji, mám se dobře. | Спасибо, у меня все хорошо.
+Jmenuju se Eva. | Меня зовут Ева.
+Bydlím v Praze | Я живу в Праге
+Ty jsi student, nebo pracuješ? | Ты студент или работаешь?
+Česky mluvím bohužel málo. | По-чешски я говорю немного, к сожалению.
+Španělsky umím dobře. | По-испански я говорю хорошо
+To je skvělý nápad! | Отличная идея!
+To je škoda. | Жаль.
+Ještě ti zavolám. | Я тебе еще позвоню
+Chci tě seznámit s... | Хочу тебя познакомить c…
+Máte hodně společného. | У вас много общего.
+Čeština je podobná ruštině. | Чешский язык похож на русский.
+Pracovat ve velké mezinárodní firmě | Работать в крупной международной фирме
+Co tomu říkáš? | Что на это скажешь?
+Mám zájem o… | Я интересуюсь...
+Fajn! | Отлично!
+Mít volno | Иметь свободное время
+Není zač. | Не за что
+Mějte se hezky | Всего хорошего
+Víš, kolik je hodin? | Знаешь, который час?
+Nevím, zapomněla jsem doma mobil. | Не знаю, я забыла телефон дома.
+Vůbec nemám čas. | У меня совершенно нет времени.
+Vyučování začíná v 10. | Уроки начинаются в 10 часов
+Máš spěchat. | Тебе нужно спешить.
+Čekám na tramvaj. | Жду трамвай.
+Asi to stihnu včas. | Я должна успеть.
+Cesta od domu trvá 30 minut. | Дорога от дома занимает 30 минут.
+Kino je v centru města. | Кинотеатр находится в центре города. 
+Máš štěstí | Везет тебе.
+Můžeme se setkat dřív. | Можем встретиться пораньше.
+Tak zatím! | Тогда пока!
+Jaký máte telefon? | Какой у вас телефон?
+Jaký máte e-mail? | Какой у вас e-mail?
+Jaké máte internetové stránky? | Какой у вас сайт?
+Co má na sobě? | Во что он одет?
+Kolik je ti let? | Сколько тебе лет?
+Je mi 20 let | Мне 20 лет.
+To se mi líbí. | Мне это нравится.
+Kolik to stojí? | Сколько это стоит?
+Můžu zaplatit kartou? | Могу заплатить картой?
+Mám pro tebe dárek. | У меня есть для тебя подарок.
+Vypadáš skvěle! | Выглядишь потрясающе!
+Moc ti to sluší. | Тебе очень идет.
+Budu potřebovat tvou radu. | Мне будет необходим твой совет.
+vstávat brzo | вставать рано
+snídat doma | завтракать дома
+začít pracovat | начинать работать
+odpočívat o víkendu | отдыхать на выходных
+zajímat se o politiku | интересоваться политикой
+sportovat v tělocvičně | заниматься спортом в спортзале
+dívat se na televizi | смотреть телевизор
+poslouchat hudbu | слушать музыку
+doporučit knihu | порекомендовать книгу
+Který film se ti líbí? | Какой фильм тебе нравится
+Ty jsi hodná. | Это мило с твоей стороны.
+To je pravda. | Это так
+To není pravda. | Это не так
+Film byl natočen… | Фильм был снят...
+jedno z největších filmových studií | одна из самых крупных киностудий
+Mají otevřeno každý čtvrtek. | Открыто каждый четверг.
+Uvidíme se příští týden | Увидимся на следующей неделе
