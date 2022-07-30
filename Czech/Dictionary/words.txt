@@ -55,7 +55,6 @@ trh | рынок
 loď | корабль
 obraz | картина
 shora | сверху
-procházka | прогулка
 tužka | карандаш
 hodina | час | урок
 čas | время
@@ -186,3 +185,33 @@ zima | зима
 léto | лето
 jarno | весна
 podzim | осень
+roční období | времена года
+v zimě | зимой
+v létě | летом
+na podzim | осенью
+na jaře | весной
+koníček | хобби
+cestování | путешествие
+chata | дача
+procházka | прогулка
+galerie | галерея
+muzeum | музей
+poznávat | узнавать
+navštěvovat | посещать
+milovat | любить
+fotografování | фотографирование
+černobílý | черно-белый
+barevný | цветной
+vaření | приготовление еды
+večeřet | ужинать
+jídlo | блюдо
+zmrzlina | мороженое
+září | сентябрь
+počasí | погода
+vedro | жара
+příjemný | приятный
+nádherný | восхитительный
+divoký | дикий
+moře | море
+slunce | солнце
+výlet | поход
