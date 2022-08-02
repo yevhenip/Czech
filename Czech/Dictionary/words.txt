@@ -51,7 +51,6 @@ moderní | современный
 prodavač | продавец
 ulice | улица
 číst | читать
-trh | рынок
 loď | корабль
 obraz | картина
 shora | сверху
@@ -215,3 +214,27 @@ divoký | дикий
 moře | море
 slunce | солнце
 výlet | поход
+jídelní lístek | меню
+polévka | суп
+příloha | гарнир
+těstoviny | макароны
+brambory | картофель
+rýže | рис
+vepřový řízek | шницель из свинины
+hranolky | картофель фри
+houby | грибы
+ovoce | фрукты
+zelenina | овощи
+pomeranč | апельсин
+rajče | помидор
+okurka | огурец
+chléb | хлеб
+houska | булочка
+palačinka | блинчик
+šlehačka | взбитые сливки
+perlivá minerálka | газированная минералка
+čerstvý | свежий
+džus | сок
+mléko | молоко
+trh | рынок
+cukrárna | кондитерская

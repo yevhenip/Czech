@@ -77,3 +77,17 @@ Líbí se ti Praha? | Тебе нравится Прага?
 jezdit na kole | ездить на велосипеде
 řídit auto | водить автомобиль
 Těším se na víkend. | Жду не дождусь выходных.
+Máte volný stůl? | У вас есть свободный стол?
+Jídelní lístek, prosím. | Подайте меню, пожалуйста.
+Máte vybráno? | Вы уже выбрали?
+Co si přejete? | Что желаете?
+Dáte si něco k pití? | Возьмете что-нибудь пить?
+Rád jím polévku | Я люблю есть суп.
+Rád piju mléko. | Rád piju mléko.
+Chutná mi čokoláda | Мне нравится шоколад.
+Mám chuť na něco sladkého. | Мне хочется чего-нибудь сладкого.
+Já si dám ovocný salát. | Я возьму фруктовый салат.
+To je všechno. | Это все.
+Platit budete dohromady nebo zvlášť? | Будете платить вместе или отдельно?
+Můžu zaplatit kartou? | Я могу заплатить картой?
+Zaplatím v hotovosti. | Заплачу наличными.
