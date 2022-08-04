@@ -91,3 +91,19 @@ To je všechno. | Это все.
 Platit budete dohromady nebo zvlášť? | Будете платить вместе или отдельно?
 Můžu zaplatit kartou? | Я могу заплатить картой?
 Zaplatím v hotovosti. | Заплачу наличными.
+Kdy jsi se narodila? | Когда ты родилась?
+Narodil jsem se v roce 1990. | Я родился в 1990 году.
+Mám narozeniny v létě. | У меня день рождения летом.
+Kolikátého máš narozeniny? | В какой день у тебя день рождения?
+Vítám vás. | Приветствую вас.
+Jsem ráda, že vás poznávám. | Я рада, что с вами познакомилась.
+Chtěla bych ti představit svou kamarádku. | Я хотела бы тебе представить свою подругу.
+Jak vypadá tvůj manžel? | Как выглядит твой муж?
+Přistěhovali jsme se v zimě. | Мы переехали зимой.
+Ještě nemáme všechno zařízeno. | У нас еще не все устроено.
+starat se o domácnost | заботиться о домашнем хозяйстве
+Hledám levný a malý byt. | Я ищу дешевую и маленькую квартиру.
+Abych nezapomněla... | Пока я не забыла...
+Promiň. | Извини.
+Bohužel se nám to nehodí. | К сожалению, нам это не подходит.
+To se mi hodí. | Мне это подходит.
