@@ -51,8 +51,6 @@ moderní | современный
 prodavač | продавец
 ulice | улица
 číst | читать
-loď | корабль
-obraz | картина
 shora | сверху
 tužka | карандаш
 hodina | час | урок
@@ -263,3 +261,39 @@ sušenky | печенье
 vstupenka | билет
 zkouška | экзамен
 brýle | очки
+doprava | транспорт
+jízdenka | проездной билет
+taxík | такси
+řidič | водитель
+letadlo | самолет
+letiště | аэропорт  
+loď | корабль
+vlak | поезд
+kolo | велосипед
+metro | метро
+tramvaj | трамвай
+stanice | станция
+zastávka | остановка
+stánek | киоск  
+náměstí | площадь
+výstava | выставка
+obrazárna | картинная галерея
+obraz | картина
+lístek | билет
+památka | достопримечательность
+výhled | вид
+kouř | дым
+venku | на улице
+tlustý | толстый
+vpředu | впереди
+vzadu | сзади
+nahoře | наверху
+dole | внизу
+vpravo (napravo) | вправо (направо)
+vlevo (nalevo) | влево (налево)
+tady | здесь
+tam | там
+muset | должен
+smět | сметь
+umět | уметь
+moct | мочь

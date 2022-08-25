@@ -107,3 +107,17 @@ Abych nezapomněla... | Пока я не забыла...
 Promiň. | Извини.
 Bohužel se nám to nehodí. | К сожалению, нам это не подходит.
 To se mi hodí. | Мне это подходит.
+Jdu pěšky. | Иду пешком.
+Jedu domů. | Еду домой. 
+Kdy a kde se sejdeme? | Когда и где встретимся? 
+Mám zpoždění. | Я опаздываю.
+Kde je tady bankomat? | Где здесь банкомат?
+Tady není žádný bankomat. | Здесь нет банкомата.
+Jdu dobře na náměstí? | Я правильно иду к площади?
+Jdete špatně. | Вы идете неправильно.
+Můžete mi ukázat cestu? | Можете мне показать дорогу?
+Můžu se zeptat? | Могу спросить?
+Jak se dostanu na nádraží? | Как я попаду на вокзал?
+Je to dost daleko. | Это очень далеко
+Musíte vystoupit na stanici… | Вы должны выйти на станции...
+Kolik stojí lístek pro dospělého? | Сколько стоит билет для взрослого?
